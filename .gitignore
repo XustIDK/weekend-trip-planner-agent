@@ -3,6 +3,5 @@
 !.env.example
 __pycache__/
 data/*.json
-.DS_Store
-Thumbs.db
-desktop.ini
+
+
